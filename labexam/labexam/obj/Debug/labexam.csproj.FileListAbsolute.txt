@@ -1,0 +1,6 @@
+E:\MY_WORKPLACE\C#\labexam\labexam\bin\Debug\labexam.exe.config
+E:\MY_WORKPLACE\C#\labexam\labexam\bin\Debug\labexam.exe
+E:\MY_WORKPLACE\C#\labexam\labexam\bin\Debug\labexam.pdb
+E:\MY_WORKPLACE\C#\labexam\labexam\obj\Debug\labexam.csprojResolveAssemblyReference.cache
+E:\MY_WORKPLACE\C#\labexam\labexam\obj\Debug\labexam.exe
+E:\MY_WORKPLACE\C#\labexam\labexam\obj\Debug\labexam.pdb

@@ -1,0 +1,13 @@
+E:\MY_WORKPLACE\C#\ProjectDummy\ProjectDummy\bin\Debug\ProjectDummy.exe.config
+E:\MY_WORKPLACE\C#\ProjectDummy\ProjectDummy\bin\Debug\ProjectDummy.exe
+E:\MY_WORKPLACE\C#\ProjectDummy\ProjectDummy\bin\Debug\ProjectDummy.pdb
+E:\MY_WORKPLACE\C#\ProjectDummy\ProjectDummy\bin\Debug\MetroFramework.Design.dll
+E:\MY_WORKPLACE\C#\ProjectDummy\ProjectDummy\bin\Debug\MetroFramework.dll
+E:\MY_WORKPLACE\C#\ProjectDummy\ProjectDummy\bin\Debug\MetroFramework.Fonts.dll
+E:\MY_WORKPLACE\C#\ProjectDummy\ProjectDummy\obj\Debug\ProjectDummy.csprojResolveAssemblyReference.cache
+E:\MY_WORKPLACE\C#\ProjectDummy\ProjectDummy\obj\Debug\ProjectDummy.Form1.resources
+E:\MY_WORKPLACE\C#\ProjectDummy\ProjectDummy\obj\Debug\ProjectDummy.Properties.Resources.resources
+E:\MY_WORKPLACE\C#\ProjectDummy\ProjectDummy\obj\Debug\ProjectDummy.csproj.GenerateResource.Cache
+E:\MY_WORKPLACE\C#\ProjectDummy\ProjectDummy\obj\Debug\ProjectDummy.exe
+E:\MY_WORKPLACE\C#\ProjectDummy\ProjectDummy\obj\Debug\ProjectDummy.pdb
+E:\MY_WORKPLACE\C#\ProjectDummy\ProjectDummy\obj\Debug\ProjectDummy.Login.resources

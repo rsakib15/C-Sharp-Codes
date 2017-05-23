@@ -60,9 +60,12 @@
             // 
             // metroButton1
             // 
-            this.metroButton1.Location = new System.Drawing.Point(127, 324);
+            this.metroButton1.DisplayFocus = true;
+            this.metroButton1.FontSize = MetroFramework.MetroButtonSize.Medium;
+            this.metroButton1.Highlight = true;
+            this.metroButton1.Location = new System.Drawing.Point(137, 332);
             this.metroButton1.Name = "metroButton1";
-            this.metroButton1.Size = new System.Drawing.Size(158, 40);
+            this.metroButton1.Size = new System.Drawing.Size(161, 54);
             this.metroButton1.TabIndex = 2;
             this.metroButton1.Text = "Login";
             this.metroButton1.UseSelectable = true;
@@ -74,7 +77,7 @@
             // 
             // 
             this.metroTextBox1.CustomButton.Image = null;
-            this.metroTextBox1.CustomButton.Location = new System.Drawing.Point(162, 1);
+            this.metroTextBox1.CustomButton.Location = new System.Drawing.Point(197, 1);
             this.metroTextBox1.CustomButton.Name = "";
             this.metroTextBox1.CustomButton.Size = new System.Drawing.Size(29, 29);
             this.metroTextBox1.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
@@ -92,7 +95,7 @@
             this.metroTextBox1.SelectionLength = 0;
             this.metroTextBox1.SelectionStart = 0;
             this.metroTextBox1.ShortcutsEnabled = true;
-            this.metroTextBox1.Size = new System.Drawing.Size(192, 31);
+            this.metroTextBox1.Size = new System.Drawing.Size(227, 31);
             this.metroTextBox1.TabIndex = 3;
             this.metroTextBox1.UseSelectable = true;
             this.metroTextBox1.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
@@ -105,7 +108,7 @@
             // 
             // 
             this.metroTextBox2.CustomButton.Image = null;
-            this.metroTextBox2.CustomButton.Location = new System.Drawing.Point(162, 1);
+            this.metroTextBox2.CustomButton.Location = new System.Drawing.Point(197, 1);
             this.metroTextBox2.CustomButton.Name = "";
             this.metroTextBox2.CustomButton.Size = new System.Drawing.Size(29, 29);
             this.metroTextBox2.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
@@ -123,7 +126,7 @@
             this.metroTextBox2.SelectionLength = 0;
             this.metroTextBox2.SelectionStart = 0;
             this.metroTextBox2.ShortcutsEnabled = true;
-            this.metroTextBox2.Size = new System.Drawing.Size(192, 31);
+            this.metroTextBox2.Size = new System.Drawing.Size(227, 31);
             this.metroTextBox2.TabIndex = 4;
             this.metroTextBox2.UseSelectable = true;
             this.metroTextBox2.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
@@ -135,7 +138,7 @@
             this.pictureBox2.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox2.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox2.BackgroundImage")));
             this.pictureBox2.InitialImage = ((System.Drawing.Image)(resources.GetObject("pictureBox2.InitialImage")));
-            this.pictureBox2.Location = new System.Drawing.Point(4, 4);
+            this.pictureBox2.Location = new System.Drawing.Point(-1, 4);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(60, 68);
             this.pictureBox2.TabIndex = 5;
@@ -148,7 +151,7 @@
             // 
             // 
             this.metroTextBox3.CustomButton.Image = null;
-            this.metroTextBox3.CustomButton.Location = new System.Drawing.Point(162, 1);
+            this.metroTextBox3.CustomButton.Location = new System.Drawing.Point(197, 1);
             this.metroTextBox3.CustomButton.Name = "";
             this.metroTextBox3.CustomButton.Size = new System.Drawing.Size(29, 29);
             this.metroTextBox3.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
@@ -166,12 +169,11 @@
             this.metroTextBox3.SelectionLength = 0;
             this.metroTextBox3.SelectionStart = 0;
             this.metroTextBox3.ShortcutsEnabled = true;
-            this.metroTextBox3.Size = new System.Drawing.Size(192, 31);
+            this.metroTextBox3.Size = new System.Drawing.Size(227, 31);
             this.metroTextBox3.TabIndex = 6;
             this.metroTextBox3.UseSelectable = true;
             this.metroTextBox3.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.metroTextBox3.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
-            this.metroTextBox3.TextChanged += new System.EventHandler(this.metroTextBox3_TextChanged);
             // 
             // metroLabel3
             // 
@@ -186,7 +188,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(403, 441);
+            this.ClientSize = new System.Drawing.Size(420, 470);
             this.Controls.Add(this.metroLabel3);
             this.Controls.Add(this.metroTextBox3);
             this.Controls.Add(this.pictureBox2);
@@ -196,7 +198,7 @@
             this.Controls.Add(this.metroLabel2);
             this.Controls.Add(this.metroLabel1);
             this.Name = "login";
-            this.Text = "          Login";
+            this.Text = "       Login";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

@@ -1,0 +1,39 @@
+J:\OOP2 Final My Class\Final\Lab 2\CSharpDBOperation\CSharpDBOperation\bin\Debug\CSharpDBOperation.exe
+J:\OOP2 Final My Class\Final\Lab 2\CSharpDBOperation\CSharpDBOperation\bin\Debug\CSharpDBOperation.pdb
+J:\OOP2 Final My Class\Final\Lab 2\CSharpDBOperation\CSharpDBOperation\obj\Debug\ResolveAssemblyReference.cache
+J:\OOP2 Final My Class\Final\Lab 2\CSharpDBOperation\CSharpDBOperation\obj\Debug\CSharpDBOperation.DbFeatures.resources
+J:\OOP2 Final My Class\Final\Lab 2\CSharpDBOperation\CSharpDBOperation\obj\Debug\CSharpDBOperation.DeleteStudentInfo.resources
+J:\OOP2 Final My Class\Final\Lab 2\CSharpDBOperation\CSharpDBOperation\obj\Debug\CSharpDBOperation.Form1.resources
+J:\OOP2 Final My Class\Final\Lab 2\CSharpDBOperation\CSharpDBOperation\obj\Debug\CSharpDBOperation.InsertData.resources
+J:\OOP2 Final My Class\Final\Lab 2\CSharpDBOperation\CSharpDBOperation\obj\Debug\CSharpDBOperation.Properties.Resources.resources
+J:\OOP2 Final My Class\Final\Lab 2\CSharpDBOperation\CSharpDBOperation\obj\Debug\CSharpDBOperation.UpdateStudentData.resources
+J:\OOP2 Final My Class\Final\Lab 2\CSharpDBOperation\CSharpDBOperation\obj\Debug\CSharpDBOperation.ViewAllStudentData.resources
+J:\OOP2 Final My Class\Final\Lab 2\CSharpDBOperation\CSharpDBOperation\obj\Debug\CSharpDBOperation.csproj.GenerateResource.Cache
+J:\OOP2 Final My Class\Final\Lab 2\CSharpDBOperation\CSharpDBOperation\obj\Debug\CSharpDBOperation.exe
+J:\OOP2 Final My Class\Final\Lab 2\CSharpDBOperation\CSharpDBOperation\obj\Debug\CSharpDBOperation.pdb
+J:\OOP2 Final My Class\Final\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\obj\Debug\CSharpDBOperation.exe
+J:\OOP2 Final My Class\Final\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\obj\Debug\CSharpDBOperation.pdb
+J:\OOP2 Final My Class\Final\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\bin\Debug\CSharpDBOperation.exe
+J:\OOP2 Final My Class\Final\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\bin\Debug\CSharpDBOperation.pdb
+J:\OOP2 Final My Class\Final\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\obj\Debug\ResolveAssemblyReference.cache
+J:\OOP2 Final My Class\Final\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\obj\Debug\CSharpDBOperation.DbFeatures.resources
+J:\OOP2 Final My Class\Final\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\obj\Debug\CSharpDBOperation.DeleteStudentInfo.resources
+J:\OOP2 Final My Class\Final\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\obj\Debug\CSharpDBOperation.Form1.resources
+J:\OOP2 Final My Class\Final\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\obj\Debug\CSharpDBOperation.InsertData.resources
+J:\OOP2 Final My Class\Final\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\obj\Debug\CSharpDBOperation.Properties.Resources.resources
+J:\OOP2 Final My Class\Final\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\obj\Debug\CSharpDBOperation.UpdateStudentData.resources
+J:\OOP2 Final My Class\Final\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\obj\Debug\CSharpDBOperation.ViewAllStudentData.resources
+J:\OOP2 Final My Class\Final\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\obj\Debug\CSharpDBOperation.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\obj\Debug\CSharpDBOperation.exe
+C:\Users\student\Desktop\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\obj\Debug\CSharpDBOperation.pdb
+C:\Users\student\Desktop\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\bin\Debug\CSharpDBOperation.exe
+C:\Users\student\Desktop\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\bin\Debug\CSharpDBOperation.pdb
+C:\Users\student\Desktop\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\obj\Debug\CSharpDBOperation.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\obj\Debug\CSharpDBOperation.DbFeatures.resources
+C:\Users\student\Desktop\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\obj\Debug\CSharpDBOperation.DeleteStudentInfo.resources
+C:\Users\student\Desktop\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\obj\Debug\CSharpDBOperation.Form1.resources
+C:\Users\student\Desktop\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\obj\Debug\CSharpDBOperation.InsertData.resources
+C:\Users\student\Desktop\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\obj\Debug\CSharpDBOperation.Properties.Resources.resources
+C:\Users\student\Desktop\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\obj\Debug\CSharpDBOperation.UpdateStudentData.resources
+C:\Users\student\Desktop\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\obj\Debug\CSharpDBOperation.ViewAllStudentData.resources
+C:\Users\student\Desktop\Lab 2\OracleCSharpDBOperation\CSharpDBOperation\obj\Debug\CSharpDBOperation.csproj.GenerateResource.Cache

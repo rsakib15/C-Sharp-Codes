@@ -1,0 +1,9 @@
+E:\MY_WORKPLACE\C#\practice\practice\bin\Debug\practice.exe.config
+E:\MY_WORKPLACE\C#\practice\practice\obj\Debug\practice.csprojResolveAssemblyReference.cache
+E:\MY_WORKPLACE\C#\practice\practice\bin\Debug\practice.exe
+E:\MY_WORKPLACE\C#\practice\practice\bin\Debug\practice.pdb
+E:\MY_WORKPLACE\C#\practice\practice\obj\Debug\practice.exe
+E:\MY_WORKPLACE\C#\practice\practice\obj\Debug\practice.pdb
+E:\MY_WORKPLACE\C#\practice\practice\bin\Debug\HtmlAgilityPack.dll
+E:\MY_WORKPLACE\C#\practice\practice\bin\Debug\HtmlAgilityPack.pdb
+E:\MY_WORKPLACE\C#\practice\practice\bin\Debug\HtmlAgilityPack.xml

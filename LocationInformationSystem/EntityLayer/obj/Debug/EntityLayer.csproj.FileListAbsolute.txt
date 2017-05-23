@@ -1,0 +1,15 @@
+C:\Users\Aneem\Documents\LocationInformationSystem\EntityLayer\bin\Debug\EntityLayer.exe.config
+C:\Users\Aneem\Documents\LocationInformationSystem\EntityLayer\bin\Debug\EntityLayer.exe
+C:\Users\Aneem\Documents\LocationInformationSystem\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Aneem\Documents\LocationInformationSystem\EntityLayer\obj\Debug\EntityLayer.Properties.Resources.resources
+C:\Users\Aneem\Documents\LocationInformationSystem\EntityLayer\obj\Debug\EntityLayer.csproj.GenerateResource.Cache
+C:\Users\Aneem\Documents\LocationInformationSystem\EntityLayer\obj\Debug\EntityLayer.exe
+C:\Users\Aneem\Documents\LocationInformationSystem\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\Aneem\Desktop\LocationInformationSystem\EntityLayer\bin\Debug\EntityLayer.exe.config
+C:\Users\Aneem\Desktop\LocationInformationSystem\EntityLayer\bin\Debug\EntityLayer.exe
+C:\Users\Aneem\Desktop\LocationInformationSystem\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Aneem\Desktop\LocationInformationSystem\EntityLayer\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache
+C:\Users\Aneem\Desktop\LocationInformationSystem\EntityLayer\obj\Debug\EntityLayer.Properties.Resources.resources
+C:\Users\Aneem\Desktop\LocationInformationSystem\EntityLayer\obj\Debug\EntityLayer.csproj.GenerateResource.Cache
+C:\Users\Aneem\Desktop\LocationInformationSystem\EntityLayer\obj\Debug\EntityLayer.exe
+C:\Users\Aneem\Desktop\LocationInformationSystem\EntityLayer\obj\Debug\EntityLayer.pdb

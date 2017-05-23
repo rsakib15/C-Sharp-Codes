@@ -16,6 +16,7 @@ namespace Leave
         public login()
         {
             InitializeComponent();
+            metroTextBox3.PasswordChar = '*';
         }
 
         private void logincheck()
@@ -24,30 +25,34 @@ namespace Leave
             {
                 Connection CN = new Connection();
                 CN.thisConnection.Open();
-           
-                
+
                 OracleCommand thisCommand = new OracleCommand();
                 thisCommand.Connection = CN.thisConnection;
-                thisCommand.CommandText = "SELECT * FROM users WHERE username='" + metroTextBox2.Text + "' AND password='" + metroTextBox3.Text + "'and employeeid='"+ metroTextBox1.Text + "'";
-
+                thisCommand.CommandText = "SELECT * FROM users WHERE username='" + metroTextBox2.Text + "' AND password='" + metroTextBox3.Text + "'and employeeid='" + metroTextBox1.Text + "'";
+                
                 OracleDataReader thisReader = thisCommand.ExecuteReader();
+
                 if (thisReader.Read())
                 {
-                    MessageBox.Show("username and password correct");
-                    LeaveApp oform = new LeaveApp(thisReader["employeeid"].ToString());
-                    this.Hide();
-                    oform.Show();
-
-                }
+                    string type = thisReader["TYPE"].ToString();
+                    if (type == "Generel")
+                    {
+                        LeaveApp oform = new LeaveApp(thisReader["employeeid"].ToString());
+                        this.Hide();
+                        oform.Show();
+                    }
+                    else if (type == "Admin")
+                    {
+                        AdminPanel oform = new AdminPanel(thisReader["employeeid"].ToString());
+                        this.Hide();
+                        oform.Show();
+                    }
+                }               
                 else
                 {
-                    MessageBox.Show("username or password incorrect");
+                    MessageBox.Show("Username or Password Incorrect");
                 }
-
-
-
                 CN.thisConnection.Close();
-
             }
             catch (Exception ex)
             {
@@ -69,7 +74,6 @@ namespace Leave
 
         private void metroTextBox1_TextChanged(object sender, EventArgs e)
         {
-
             try
             {
                 Connection CN = new Connection();
@@ -84,23 +88,12 @@ namespace Leave
                 {
                     metroTextBox2.Text = thisReader["username"].ToString();
                 }
-                else
-                {
-                    metroTextBox2.Text ="";
-                }
                 CN.thisConnection.Close();
-
             }
             catch (Exception ex)
             {
                 MessageBox.Show(ex.ToString());
             }
-
-        }
-
-        private void metroTextBox3_TextChanged(object sender, EventArgs e)
-        {
-            
         }
 
         private void metroTextBox2_TextChanged(object sender, EventArgs e)
@@ -110,7 +103,6 @@ namespace Leave
                 Connection CN = new Connection();
                 CN.thisConnection.Open();
 
-
                 OracleCommand thisCommand = new OracleCommand();
                 thisCommand.Connection = CN.thisConnection;
                 thisCommand.CommandText = "SELECT employeeid from users WHERE username='" + metroTextBox2.Text + "'";
@@ -118,12 +110,7 @@ namespace Leave
                 OracleDataReader thisReader = thisCommand.ExecuteReader();
                 if (thisReader.Read())
                 {
-
                     metroTextBox1.Text = thisReader["employeeid"].ToString();
-                }
-                else
-                {
-                    metroTextBox1.Text = "";
                 }
                 CN.thisConnection.Close();
 
@@ -132,7 +119,6 @@ namespace Leave
             {
                 MessageBox.Show(ex.ToString());
             }
-
         }
     }
 }

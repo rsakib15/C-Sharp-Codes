@@ -1,0 +1,12 @@
+E:\MY_WORKPLACE\C#\WordSearch\WordSearch\bin\Debug\WordSearch.exe.config
+E:\MY_WORKPLACE\C#\WordSearch\WordSearch\bin\Debug\WordSearch.exe
+E:\MY_WORKPLACE\C#\WordSearch\WordSearch\bin\Debug\WordSearch.pdb
+E:\MY_WORKPLACE\C#\WordSearch\WordSearch\bin\Debug\MetroFramework.Design.dll
+E:\MY_WORKPLACE\C#\WordSearch\WordSearch\bin\Debug\MetroFramework.dll
+E:\MY_WORKPLACE\C#\WordSearch\WordSearch\bin\Debug\MetroFramework.Fonts.dll
+E:\MY_WORKPLACE\C#\WordSearch\WordSearch\obj\Debug\CodeSearch.csprojResolveAssemblyReference.cache
+E:\MY_WORKPLACE\C#\WordSearch\WordSearch\obj\Debug\VirtualJudge.Form1.resources
+E:\MY_WORKPLACE\C#\WordSearch\WordSearch\obj\Debug\WordSearch.Properties.Resources.resources
+E:\MY_WORKPLACE\C#\WordSearch\WordSearch\obj\Debug\CodeSearch.csproj.GenerateResource.Cache
+E:\MY_WORKPLACE\C#\WordSearch\WordSearch\obj\Debug\WordSearch.exe
+E:\MY_WORKPLACE\C#\WordSearch\WordSearch\obj\Debug\WordSearch.pdb

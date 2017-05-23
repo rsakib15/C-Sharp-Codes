@@ -1,0 +1,9 @@
+E:\MY_WORKPLACE\C#\Online_Ordering_Systems\Online_Ordering_Systems\bin\Debug\Online_Ordering_Systems.exe.config
+E:\MY_WORKPLACE\C#\Online_Ordering_Systems\Online_Ordering_Systems\bin\Debug\Online_Ordering_Systems.exe
+E:\MY_WORKPLACE\C#\Online_Ordering_Systems\Online_Ordering_Systems\bin\Debug\Online_Ordering_Systems.pdb
+E:\MY_WORKPLACE\C#\Online_Ordering_Systems\Online_Ordering_Systems\obj\Debug\Online_Ordering_Systems.csprojResolveAssemblyReference.cache
+E:\MY_WORKPLACE\C#\Online_Ordering_Systems\Online_Ordering_Systems\obj\Debug\Online_Ordering_Systems.Properties.Resources.resources
+E:\MY_WORKPLACE\C#\Online_Ordering_Systems\Online_Ordering_Systems\obj\Debug\Online_Ordering_Systems.csproj.GenerateResource.Cache
+E:\MY_WORKPLACE\C#\Online_Ordering_Systems\Online_Ordering_Systems\obj\Debug\Online_Ordering_Systems.exe
+E:\MY_WORKPLACE\C#\Online_Ordering_Systems\Online_Ordering_Systems\obj\Debug\Online_Ordering_Systems.pdb
+E:\MY_WORKPLACE\C#\Online_Ordering_Systems\Online_Ordering_Systems\obj\Debug\Online_Ordering_Systems.OrderMain.resources

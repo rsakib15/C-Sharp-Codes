@@ -71,6 +71,7 @@
             this.metroTextBox2.UseSelectable = true;
             this.metroTextBox2.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.metroTextBox2.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            this.metroTextBox2.TextChanged += new System.EventHandler(this.metroTextBox2_TextChanged);
             // 
             // metroLabel4
             // 
@@ -96,7 +97,7 @@
             this.metroTextBox6.CustomButton.UseSelectable = true;
             this.metroTextBox6.CustomButton.Visible = false;
             this.metroTextBox6.Lines = new string[0];
-            this.metroTextBox6.Location = new System.Drawing.Point(157, 92);
+            this.metroTextBox6.Location = new System.Drawing.Point(157, 180);
             this.metroTextBox6.MaxLength = 32767;
             this.metroTextBox6.Name = "metroTextBox6";
             this.metroTextBox6.PasswordChar = '\0';
@@ -111,6 +112,7 @@
             this.metroTextBox6.UseSelectable = true;
             this.metroTextBox6.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.metroTextBox6.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            this.metroTextBox6.TextChanged += new System.EventHandler(this.metroTextBox6_TextChanged);
             // 
             // metroLabel2
             // 
@@ -123,9 +125,9 @@
             // 
             // metroButton2
             // 
-            this.metroButton2.Location = new System.Drawing.Point(245, 235);
+            this.metroButton2.Location = new System.Drawing.Point(228, 239);
             this.metroButton2.Name = "metroButton2";
-            this.metroButton2.Size = new System.Drawing.Size(109, 34);
+            this.metroButton2.Size = new System.Drawing.Size(224, 34);
             this.metroButton2.TabIndex = 55;
             this.metroButton2.Text = "EXIT OFFICE";
             this.metroButton2.UseSelectable = true;
@@ -133,9 +135,9 @@
             // 
             // metroButton1
             // 
-            this.metroButton1.Location = new System.Drawing.Point(116, 235);
+            this.metroButton1.Location = new System.Drawing.Point(-2, 239);
             this.metroButton1.Name = "metroButton1";
-            this.metroButton1.Size = new System.Drawing.Size(109, 34);
+            this.metroButton1.Size = new System.Drawing.Size(224, 34);
             this.metroButton1.TabIndex = 54;
             this.metroButton1.Text = "ENTER";
             this.metroButton1.UseSelectable = true;
@@ -168,7 +170,7 @@
             this.metroTextBox1.CustomButton.UseSelectable = true;
             this.metroTextBox1.CustomButton.Visible = false;
             this.metroTextBox1.Lines = new string[0];
-            this.metroTextBox1.Location = new System.Drawing.Point(157, 176);
+            this.metroTextBox1.Location = new System.Drawing.Point(157, 93);
             this.metroTextBox1.MaxLength = 32767;
             this.metroTextBox1.Name = "metroTextBox1";
             this.metroTextBox1.PasswordChar = '\0';
@@ -183,6 +185,7 @@
             this.metroTextBox1.UseSelectable = true;
             this.metroTextBox1.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.metroTextBox1.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            this.metroTextBox1.TextChanged += new System.EventHandler(this.metroTextBox1_TextChanged);
             // 
             // metroLabel1
             // 
